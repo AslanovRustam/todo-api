@@ -46,13 +46,13 @@ DATABASE_USER="your mongo database path"
 npm run start:dev
 ```
 
-### 5. Test the API
+## 🧪 Test the API
 
 You can use Swagger to test and explore the API:
 
 📚 Open: http://localhost:3000/api
 
-### 6. Test the API
+## 📁 Project Structure
 
 ```bash
 src/
@@ -70,7 +70,7 @@ src/
 ├── main.ts                  # Swagger setup
 ```
 
-### 6. API Endpoints Overview
+## 📌 API Endpoints Overview
 
 ```bash
 Method     Endpoint         Description
